@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# TypeScript compiled output
+dist/
+
+# Jest cache
+.jest-cache/
+coverage/
+
+# Environment files
+.env
+.env.local
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
